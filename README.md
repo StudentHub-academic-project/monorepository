@@ -3,6 +3,8 @@
 
 # StudentHub
 
+![STDHUB](https://github.com/StudentHub-academic-project/client/blob/834a796e3949b691495a7717225aed93928c79ec/my-app/src/logo/logo.png?raw=true)
+
 #### [Visit Documentation website ↗]https://studenthub-academic-project.github.io/docs/)
 
 ## Table of contents
